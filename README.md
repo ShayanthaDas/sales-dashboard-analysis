@@ -93,3 +93,16 @@ Expand strategies in high-performing regions
 Improve performance in low-performing areas
 
 Use time-based insights for better marketing and sales planning
+📁 Project Structure
+sales-dashboard-analysis/
+│── data/
+│── dashboard/
+│── visuals/
+│── README.md
+🚀 Future Improvements
+
+Add real-time data integration
+
+Include predictive analytics (forecasting)
+
+Enhance dashboard with advanced filters and drill-down features
