@@ -1,108 +1,29 @@
-🧾 Sales Dashboard Analysis
-📌 Project Overview
+# 📊 Sales Dashboard Analysis
 
-This project focuses on building an interactive sales dashboard to monitor and analyze business performance across multiple dimensions such as revenue, products, regions, and time.
+## 1. 🎯 Objective
+Analyze and visualize sales data to track performance across products, regions, and time periods. Identify opportunities for revenue growth.
 
-The dashboard transforms raw sales data into visual insights, enabling stakeholders to make faster and more informed business decisions.
+## 2. 🛠 Tools & Technologies
+- Excel / Python / Power BI / Tableau  
 
-🎯 Business Problem
+## 3. 📊 Key Insights
+- Certain products and regions drive most revenue.  
+- Sales exhibit seasonal patterns.  
+- Customer behavior varies across regions and product categories.  
 
-Businesses often struggle to:
+## 4. 🧠 Recommendations
+- Focus on high-performing products and regions.  
+- Launch targeted promotions during peak seasons.  
+- Review underperforming products for optimization.  
 
-Track key performance indicators (KPIs) in one place
+## 5. 📊 Dashboard / Visuals
+<img width="597" height="545" alt="image" src="https://github.com/user-attachments/assets/5683ac10-ec7e-46f1-befb-325d3c4d1f6e" />
+<img width="597" height="471" alt="image" src="https://github.com/user-attachments/assets/7dac6d4e-c2cd-470f-a829-5a3d8ae7b4d0" />
+<img width="389" height="411" alt="image" src="https://github.com/user-attachments/assets/a2305295-b0a1-4812-baaf-4407c89fd060" />
+<img width="558" height="435" alt="image" src="https://github.com/user-attachments/assets/d54d64dd-df9c-41c8-8b74-20db4a194448" />
+<img width="515" height="435" alt="image" src="https://github.com/user-attachments/assets/35985daf-1c68-47fd-98ac-e57d16e64b86" />
 
-Identify top-performing products and regions
-
-Monitor sales trends over time
-
-Make quick, data-driven decisions
-
-This dashboard solves these problems by providing a centralized and interactive view of sales performance.
-
-🧰 Tools & Technologies
-
-Power BI / Tableau / Excel (based on your tool)
-
-Data Cleaning & Transformation
-
-Data Visualization
-
-KPI Analysis
-
-🔄 Methodology
-Data Preparation
-
-Cleaned raw sales data
-
-Removed inconsistencies and duplicates
-
-Data Modeling
-
-Structured data for analysis
-
-Created relationships (if Power BI/Tableau used)
-
-Dashboard Development
-
-Designed interactive visuals
-
-Added filters (time, region, product)
-
-Built KPI cards for key metrics
-
-Visualization
-
-Sales trends over time
-
-Revenue by region
-
-Product performance analysis
-
-Customer insights (if included)
-
-📊 Key Metrics (KPIs)
-
-Total Revenue
-
-Total Sales
-
-Profit / Margin (if included)
-
-Top Products
-
-Top Regions
-
-📊 Key Insights
-
-Sales performance varies significantly across regions and time periods
-
-A small number of products contribute the majority of revenue
-
-Certain time periods show consistent sales growth trends
-
-Regional differences highlight opportunities for targeted strategy
-
-Interactive dashboards like this help businesses track KPIs, analyze trends, and make data-driven decisions efficiently
-
-💡 Business Recommendations
-
-Focus on top-performing products to maximize revenue
-
-Expand strategies in high-performing regions
-
-Improve performance in low-performing areas
-
-Use time-based insights for better marketing and sales planning
-📁 Project Structure
-sales-dashboard-analysis/
-│── data/
-│── dashboard/
-│── visuals/
-│── README.md
-🚀 Future Improvements
-
-Add real-time data integration
-
-Include predictive analytics (forecasting)
-
-Enhance dashboard with advanced filters and drill-down features
+## 📁 Project Structure
+/data → Raw & cleaned datasets  
+/dashboard → Excel / Tableau / Power BI files  
+/images → Charts & visualizations
